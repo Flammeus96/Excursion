@@ -1,4 +1,14 @@
 html {
   background-color: black;
   font-family: Verdana;
+  text-align: Center;
+}
+
+body {
+  color: white;
+}
+
+.copyright {
+  color: Grey;
+  text-align: right;
 }
