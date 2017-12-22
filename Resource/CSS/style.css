@@ -12,3 +12,12 @@ body {
   color: Grey;
   text-align: right;
 }
+
+.fakelink {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+video {
+  object-fit: contain;
+}
