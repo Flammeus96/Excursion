@@ -4,20 +4,38 @@ html {
   text-align: Center;
 }
 
+/* tag modifiers */
+
 body {
   color: white;
 }
 
+p {
+  color: grey;
+  font-size: 21px;
+}
+
+video {
+  object-fit: contain;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+/* class modifiers */
+
 .copyright {
-  color: Grey;
   text-align: right;
 }
 
 .fakelink {
   color: aquamarine;
   font-size: 16px;
-}
-
-video {
-  object-fit: contain;
 }
